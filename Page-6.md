@@ -1,20 +1,5 @@
 # HEADING 1
 
-1.  List Element 
-
-    1.  Sub List Element 1
-    2.  Sub List Element 2
-
-*   Bullet List Element 1
-
-    *   Sub Bullet List Element 1
-    *   Sub Bullet List Element 2
-
-*   [ ] Check List
-
-    *   [x] Sub Check List
-
-### Image
 ![](/assets/Pasted%20image.png)
 
 
